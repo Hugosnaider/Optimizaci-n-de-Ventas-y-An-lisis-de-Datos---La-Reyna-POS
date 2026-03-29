@@ -1,5 +1,3 @@
-# Optimización-de-Ventas-y-Analisis-de-Datos---La-Reyna-POS
-Sistema de Gestión Transaccional y Business Intelligence
 # Informe Técnico: Optimización de Ventas y Análisis de Datos - La Reyna POS
 **Desarrollador:** Hugo González González  
 **Proyecto:** Sistema de Gestión Transaccional y Business Intelligence
