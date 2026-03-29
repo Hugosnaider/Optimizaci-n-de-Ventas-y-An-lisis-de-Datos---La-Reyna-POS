@@ -11,14 +11,12 @@ Como se observa en la interfaz de métricas, el sistema desglosa los ingresos pa
 ### 2.1 Análisis de Flujo de Ingresos
 El sistema rastrea las ventas en tiempo real, permitiendo identificar picos de actividad según la hora y el día.
 
-![Gráfico de Flujo de Ingresos](./Captura%20de%20pantalla%202026-03-25%20194358.png)
-*Figura 1: Visualización del acumulado de ventas (₡200,000) y unidades vendidas.*
+![Gráfico de Flujo de Ingresos](./Captura%20de%20pantalla%202026-03-28%20194358.png)
 
 ### 2.2 Segmentación por Métodos de Pago
 Dada la relevancia de los pagos digitales en Costa Rica, la aplicación separa automáticamente las transacciones en **Efectivo, SINPE Móvil y Tarjeta**.
 
-![Ventas Diarias](./Captura%20de%20pantalla%202026-03-25%20195853.png)
-*Figura 2: Desglose diario por método de pago, facilitando el arqueo de caja.*
+![Ventas Diarias](./Captura%20de%20pantalla%202026-03-28%20195853.png)
 
 ## 3. Innovaciones Técnicas Implementadas
 * **Validación de Stock Crítico:** Algoritmo que bloquea ventas si la cantidad solicitada supera la existencia física.
